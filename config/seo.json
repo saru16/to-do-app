@@ -1,0 +1,11 @@
+{
+  "title": "To Do App | Saruniya",
+  "titleTemplate": "%s - Challenges",
+  "description": "To Do App -> List Your Plans",
+  "openGraph": {
+    "type": "website",
+    "locale": "en_IE",
+    "url": " ",
+    "site_name": "To Do App"
+  }
+}
